@@ -1,0 +1,6 @@
+com\mycompany\crud\Conexao.class
+com\mycompany\crud\TesteConexao.class
+com\mycompany\crud\Crud.class
+com\mycompany\crud\PainelLinha.class
+com\mycompany\crud\Pessoa.class
+com\mycompany\crud\WrapLayout.class
